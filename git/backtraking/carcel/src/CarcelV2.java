@@ -17,7 +17,7 @@ public class CarcelV2 {
     /* --------------------- PRUEBA DEL ALGORITMO --------------------- */
     public static void main(String[] args) {
         CarcelV2 m = new CarcelV2();
-        final int totalPresos = 23;
+        final int totalPresos = 26;
         presosEncontrados = 0;// construimos un objeto de la clase Laberinto por defecto
         m.carcel[5][7] = 'C'; 												// introducimos en este caso, la salida (X) en las coordenadas (1,1)
         m.resuelve(0, 0); 											// ahora, introducimos la entrada (S) en las coordenadas (8,1) y llamamos al algoritmo
