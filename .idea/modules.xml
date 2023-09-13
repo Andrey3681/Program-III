@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Program-III.iml" filepath="$PROJECT_DIR$/.idea/Program-III.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git/backtraking/backtraking.iml" filepath="$PROJECT_DIR$/git/backtraking/backtraking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git/recursividad/buscarNumeroVector/buscarNumeroVector.iml" filepath="$PROJECT_DIR$/git/recursividad/buscarNumeroVector/buscarNumeroVector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git/backtraking/carcel/carcel.iml" filepath="$PROJECT_DIR$/git/backtraking/carcel/carcel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git/recursividad/contarCeros/contarCeros.iml" filepath="$PROJECT_DIR$/git/recursividad/contarCeros/contarCeros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git/recursividad/contarCifras/contarCifras.iml" filepath="$PROJECT_DIR$/git/recursividad/contarCifras/contarCifras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git/recursividad/fibonachi/fibonachi.iml" filepath="$PROJECT_DIR$/git/recursividad/fibonachi/fibonachi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git/recursividad/imprimirMatrizDiagonal/imprimirMatrizDiagonal.iml" filepath="$PROJECT_DIR$/git/recursividad/imprimirMatrizDiagonal/imprimirMatrizDiagonal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git/recursividad/invertirString/invertirString.iml" filepath="$PROJECT_DIR$/git/recursividad/invertirString/invertirString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git/backtraking/juego-mochila/juego-mochila.iml" filepath="$PROJECT_DIR$/git/backtraking/juego-mochila/juego-mochila.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git/backtraking/laberinto/laberinto.iml" filepath="$PROJECT_DIR$/git/backtraking/laberinto/laberinto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git/backtraking/n-dados/n-dados.iml" filepath="$PROJECT_DIR$/git/backtraking/n-dados/n-dados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git/backtraking/n-reinas/n-reinas.iml" filepath="$PROJECT_DIR$/git/backtraking/n-reinas/n-reinas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git/recursividad/numeroApariciones/numeroApariciones.iml" filepath="$PROJECT_DIR$/git/recursividad/numeroApariciones/numeroApariciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git/recursividad/numeroMenorArreglo/numeroMenorArreglo.iml" filepath="$PROJECT_DIR$/git/recursividad/numeroMenorArreglo/numeroMenorArreglo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git/recursividad/recorrerMatriz/recorrerMatriz.iml" filepath="$PROJECT_DIR$/git/recursividad/recorrerMatriz/recorrerMatriz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git/recursividad/recursividad.iml" filepath="$PROJECT_DIR$/git/recursividad/recursividad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git/backtraking/salto-caballo/salto-caballo.iml" filepath="$PROJECT_DIR$/git/backtraking/salto-caballo/salto-caballo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git/recursividad/sumaDeCifras/sumaDeCifras.iml" filepath="$PROJECT_DIR$/git/recursividad/sumaDeCifras/sumaDeCifras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git/recursividad/sumaDiagonalMatriz/sumaDiagonalMatriz.iml" filepath="$PROJECT_DIR$/git/recursividad/sumaDiagonalMatriz/sumaDiagonalMatriz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git/recursividad/sumaMatrizColumnaInversa/sumaMatrizColumnaInversa.iml" filepath="$PROJECT_DIR$/git/recursividad/sumaMatrizColumnaInversa/sumaMatrizColumnaInversa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git/recursividad/vocales-consecutivas/vocales-consecutivas.iml" filepath="$PROJECT_DIR$/git/recursividad/vocales-consecutivas/vocales-consecutivas.iml" />
+    </modules>
+  </component>
+</project>
