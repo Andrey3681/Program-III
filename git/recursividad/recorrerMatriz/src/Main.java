@@ -28,6 +28,28 @@ public class Main {
         }
     }
 
+    public static void m(int[][] matriz, int i, int j){
+        if(matriz.length-1==i){
+            if(matriz[0].length-1==j){
+
+
+            }else {
+                recorrerMatriz(matriz,i,j+1);
+            }
+        }
+        else {
+            if(matriz[0].length-1==j){
+
+                recorrerMatriz(matriz,i+1,0);
+
+            }else {
+                recorrerMatriz(matriz,i,j+1);
+            }
+
+        }
+
+    }
+
 
     public static int recorrerMatrizInv(int[][] matriz, int i, int j) {
         if(i==0){
