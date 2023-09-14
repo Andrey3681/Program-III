@@ -26,7 +26,7 @@ public class Main {
         if(i==0){
             return String.valueOf(dados[i]);
         }else {
-            return imprimirSuma(dados,i-1)+"+"+ String.valueOf(dados[i]);
+            return imprimirSuma(dados,i-1)+"+"+ dados[i];
         }
     }
 
