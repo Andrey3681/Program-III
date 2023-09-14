@@ -78,11 +78,7 @@ public class Main {
     public static boolean esPrimo(int edad, int i,int divisores){
         if(edad==i){
             divisores+=1;
-            if(divisores==2){
-                return true;
-            }else {
-                return false;
-            }
+            return divisores == 2;
         }else {
             if((edad%i)==0){
                 divisores+=1;
@@ -95,11 +91,7 @@ public class Main {
     public static boolean esPerfecto(int edad){
         ArrayList<Integer>divisores=new ArrayList<>();
         divisores=hallarDivisores(edad,1,divisores);
-        if(sumaDivisores(divisores,0)==edad){
-            return true;
-        }else {
-            return false;
-        }
+        return sumaDivisores(divisores, 0) == edad;
 
     }
 
@@ -118,10 +110,8 @@ public class Main {
         }else {
             if(edad%i==0){
                 divisores.add(i);
-                return hallarDivisores(edad,i+1,divisores);
-            }else {
-                return hallarDivisores(edad,i+1,divisores);
             }
+            return hallarDivisores(edad,i+1,divisores);
         }
 
 
