@@ -3,16 +3,37 @@ import java.util.ArrayList;
 import java.util.Arrays;
 public class Main {
 
-    public static int numeroMenorArreglo(ArrayList<Integer>vector, int fin){
-        if(fin>=vector.size()-1){
-            return fin+1;
-        }
-        else {
-            return numeroMenorArreglo(vector,fin +1);
-        }
-    }
     public static void main(String[] args) {
-        ArrayList<Integer>vector= new ArrayList<>(Arrays.asList(1,2,3,4,5,6,7));
-        System.out.println(numeroMenorArreglo(vector,0)) ;
+
+        int [] vector = new int[5];
+        vector[0] = 2;
+        vector[1] = 3;
+        vector[2] = 1;
+        vector[3] = 8;
+        vector[4] = 5;
+
+        int inicio = 0;
+        int fin = vector.length-1;
+        int menor  = 0;
+
+        menor = numeroMenor(vector, inicio, fin);
+
+        System.out.println("El menor del arreglo es: "+menor);
+
+
+    }
+
+    public static int numeroMenor(int vector[], int inicio, int fin) {
+        if(inicio == fin) {
+            return vector[inicio];
+        }else {
+            int menor = numeroMenor(vector, inicio + 1, fin);
+
+            if(menor < vector[inicio]) {
+                return menor;
+            }else {
+                return vector[inicio];
+            }
+        }
     }
 }
