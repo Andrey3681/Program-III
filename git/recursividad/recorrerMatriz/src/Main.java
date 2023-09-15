@@ -28,7 +28,7 @@ public class Main {
         }
     }
 
-    public static void m(int[][] matriz, int i, int j){
+    public static void x (int[][] matriz, int i, int j){
         if(matriz.length-1==i){
             if(matriz[0].length-1==j){
 
