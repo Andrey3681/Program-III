@@ -3,10 +3,10 @@ import java.util.ArrayList;
 public class Main {
     public static void main(String[] args) {
         int [][] matirz={
-            {454,1010,4141,4444,234},
-            {100,2163,5456,222,444},
-            {1001,0,99,111,5654},
-            {13,89,6,112,555}
+                {454,1010,4141,4444,234},
+                {100,2163,5456,222,444},
+                {1001,0,99,111,5654},
+                {13,89,6,112,555}
 
         };
         ArrayList<Integer>lisNew=new ArrayList<>();
@@ -14,14 +14,14 @@ public class Main {
         imprimirList(listNew,0);
     }
 
-   public static void imprimirList(ArrayList<Integer>x,int n){
+    public static void imprimirList(ArrayList<Integer>x,int n){
         if(n==x.size()-1){
             System.out.println(x.get(n));
         }else {
             System.out.println(x.get(n));
             imprimirList(x,n+1);
         }
-   }
+    }
 
     public static ArrayList<Integer> mayores(int[][]matriz,ArrayList<Integer>listNew,int i,int j){
         if(matriz.length-1==i){
@@ -55,7 +55,7 @@ public class Main {
         }
     }
     public static int sumaDeCifras(int n){
-        if(n<=10){
+        if(n<10){
             return n;
         }
         else {

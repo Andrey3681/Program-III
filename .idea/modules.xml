@@ -21,6 +21,7 @@
       <module fileurl="file://$PROJECT_DIR$/git/recursividad/numeroApariciones/numeroApariciones.iml" filepath="$PROJECT_DIR$/git/recursividad/numeroApariciones/numeroApariciones.iml" />
       <module fileurl="file://$PROJECT_DIR$/git/recursividad/numeroMenorArreglo/numeroMenorArreglo.iml" filepath="$PROJECT_DIR$/git/recursividad/numeroMenorArreglo/numeroMenorArreglo.iml" />
       <module fileurl="file://$PROJECT_DIR$/git/recursividad/ordenarArrayAcendente/ordenarArrayAcendente.iml" filepath="$PROJECT_DIR$/git/recursividad/ordenarArrayAcendente/ordenarArrayAcendente.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git/parcial1/parcial1.iml" filepath="$PROJECT_DIR$/git/parcial1/parcial1.iml" />
       <module fileurl="file://$PROJECT_DIR$/git/backtraking/parqueadero/parqueadero.iml" filepath="$PROJECT_DIR$/git/backtraking/parqueadero/parqueadero.iml" />
       <module fileurl="file://$PROJECT_DIR$/git/recursividad/personaEdadPrimo-Perfecto/personaEdadPrimo-Perfecto.iml" filepath="$PROJECT_DIR$/git/recursividad/personaEdadPrimo-Perfecto/personaEdadPrimo-Perfecto.iml" />
       <module fileurl="file://$PROJECT_DIR$/git/recursividad/promedioDeUnaDiagonal/promedioDeUnaDiagonal.iml" filepath="$PROJECT_DIR$/git/recursividad/promedioDeUnaDiagonal/promedioDeUnaDiagonal.iml" />
@@ -32,7 +33,9 @@
       <module fileurl="file://$PROJECT_DIR$/git/recursividad/sumaDiagonalMatriz/sumaDiagonalMatriz.iml" filepath="$PROJECT_DIR$/git/recursividad/sumaDiagonalMatriz/sumaDiagonalMatriz.iml" />
       <module fileurl="file://$PROJECT_DIR$/git/recursividad/sumaFila/sumaFila.iml" filepath="$PROJECT_DIR$/git/recursividad/sumaFila/sumaFila.iml" />
       <module fileurl="file://$PROJECT_DIR$/git/recursividad/sumaMatrizColumnaInversa/sumaMatrizColumnaInversa.iml" filepath="$PROJECT_DIR$/git/recursividad/sumaMatrizColumnaInversa/sumaMatrizColumnaInversa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git/parcial1/sumarDigitos/sumarDigitos.iml" filepath="$PROJECT_DIR$/git/parcial1/sumarDigitos/sumarDigitos.iml" />
       <module fileurl="file://$PROJECT_DIR$/git/recursividad/vocales-consecutivas/vocales-consecutivas.iml" filepath="$PROJECT_DIR$/git/recursividad/vocales-consecutivas/vocales-consecutivas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git/parcial1/zonaGuerra/zonaGuerra.iml" filepath="$PROJECT_DIR$/git/parcial1/zonaGuerra/zonaGuerra.iml" />
     </modules>
   </component>
 </project>
